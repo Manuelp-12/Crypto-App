@@ -1,0 +1,223 @@
+{
+  "apiRoutes": [],
+  "htmlRoutes": [
+    {
+      "file": "./index.tsx",
+      "page": "/index",
+      "namedRegex": "^/(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "expo-router/build/views/Sitemap.js",
+      "page": "/_sitemap",
+      "namedRegex": "^/_sitemap(?:/)?$",
+      "routeKeys": {},
+      "generated": true
+    },
+    {
+      "file": "./Models/CoinModel.js",
+      "page": "/Models/CoinModel",
+      "namedRegex": "^/Models/CoinModel(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Components/NavBar.js",
+      "page": "/Components/NavBar",
+      "namedRegex": "^/Components/NavBar(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Components/XButton.js",
+      "page": "/Components/XButton",
+      "namedRegex": "^/Components/XButton(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Home/Views/HomeView.js",
+      "page": "/Home/Views/HomeView",
+      "namedRegex": "^/Home/Views/HomeView(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Models/StatisticModel.js",
+      "page": "/Models/StatisticModel",
+      "namedRegex": "^/Models/StatisticModel(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Models/SavedCoinModel.js",
+      "page": "/Models/SavedCoinModel",
+      "namedRegex": "^/Models/SavedCoinModel(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Formatters/formatters.js",
+      "page": "/Formatters/formatters",
+      "namedRegex": "^/Formatters/formatters(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Components/HomeHeader.js",
+      "page": "/Components/HomeHeader",
+      "namedRegex": "^/Components/HomeHeader(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Components/BackButton.js",
+      "page": "/Components/BackButton",
+      "namedRegex": "^/Components/BackButton(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Models/MarketDataModel.js",
+      "page": "/Models/MarketDataModel",
+      "namedRegex": "^/Models/MarketDataModel(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Models/CoinDetailModel.js",
+      "page": "/Models/CoinDetailModel",
+      "namedRegex": "^/Models/CoinDetailModel(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Home/Views/CoinRowView.js",
+      "page": "/Home/Views/CoinRowView",
+      "namedRegex": "^/Home/Views/CoinRowView(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Detail/Views/ChartView.js",
+      "page": "/Detail/Views/ChartView",
+      "namedRegex": "^/Detail/Views/ChartView(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Home/Views/SettingsView.js",
+      "page": "/Home/Views/SettingsView",
+      "namedRegex": "^/Home/Views/SettingsView(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Home/Views/CoinLogoView.js",
+      "page": "/Home/Views/CoinLogoView",
+      "namedRegex": "^/Home/Views/CoinLogoView(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Detail/Views/DetailView.js",
+      "page": "/Detail/Views/DetailView",
+      "namedRegex": "^/Detail/Views/DetailView(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./ColorThemes/ColorThemes.js",
+      "page": "/ColorThemes/ColorThemes",
+      "namedRegex": "^/ColorThemes/ColorThemes(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Utilities/NetworkManager.js",
+      "page": "/Utilities/NetworkManager",
+      "namedRegex": "^/Utilities/NetworkManager(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Services/CoinDataService.js",
+      "page": "/Services/CoinDataService",
+      "namedRegex": "^/Services/CoinDataService(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Home/Views/PortfolioView.js",
+      "page": "/Home/Views/PortfolioView",
+      "namedRegex": "^/Home/Views/PortfolioView(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Home/Views/HomeStatsView.js",
+      "page": "/Home/Views/HomeStatsView",
+      "namedRegex": "^/Home/Views/HomeStatsView(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Components/StatisticView.js",
+      "page": "/Components/StatisticView",
+      "namedRegex": "^/Components/StatisticView(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Components/SearchBarView.js",
+      "page": "/Components/SearchBarView",
+      "namedRegex": "^/Components/SearchBarView(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Utilities/LocalFileManager.js",
+      "page": "/Utilities/LocalFileManager",
+      "namedRegex": "^/Utilities/LocalFileManager(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Services/MarketDataService.js",
+      "page": "/Services/MarketDataService",
+      "namedRegex": "^/Services/MarketDataService(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Home/ViewModels/CoinContext.js",
+      "page": "/Home/ViewModels/CoinContext",
+      "namedRegex": "^/Home/ViewModels/CoinContext(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Services/PortfolioDataService.js",
+      "page": "/Services/PortfolioDataService",
+      "namedRegex": "^/Services/PortfolioDataService(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Home/ViewModels/HomeViewModel.js",
+      "page": "/Home/ViewModels/HomeViewModel",
+      "namedRegex": "^/Home/ViewModels/HomeViewModel(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Services/CoinDetailDataService.js",
+      "page": "/Services/CoinDetailDataService",
+      "namedRegex": "^/Services/CoinDetailDataService(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Home/ViewModels/PortfolioContext.js",
+      "page": "/Home/ViewModels/PortfolioContext",
+      "namedRegex": "^/Home/ViewModels/PortfolioContext(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Components/CircleButton/CircleButtonView.js",
+      "page": "/Components/CircleButton/CircleButtonView",
+      "namedRegex": "^/Components/CircleButton/CircleButtonView(?:/)?$",
+      "routeKeys": {}
+    },
+    {
+      "file": "./Components/CircleButton/CircleButtonAnimationView.js",
+      "page": "/Components/CircleButton/CircleButtonAnimationView",
+      "namedRegex": "^/Components/CircleButton/CircleButtonAnimationView(?:/)?$",
+      "routeKeys": {}
+    }
+  ],
+  "notFoundRoutes": [
+    {
+      "file": "expo-router/build/views/Unmatched.js",
+      "page": "/+not-found",
+      "namedRegex": "^(?:/(?<notfound>.+?))?(?:/)?$",
+      "routeKeys": {
+        "notfound": "not-found"
+      },
+      "generated": true
+    }
+  ],
+  "redirects": [],
+  "rewrites": []
+}

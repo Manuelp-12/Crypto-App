@@ -5,3 +5,7 @@ App/Website created using React Native and Expo. Displays global market data as 
 ## 🌐 Live website 
 
 Visit here: [https://crypto-portfolio-app.expo.app](https://crypto-portfolio-app.expo.app)
+
+# Homepage
+
+Displays global market data - market cap, 24h volume, and bitcoin dominance, as well as the top 250 coins with general data - coin's current price and percentage change in the last 24 hours. Users can also search for coins and reload the data.

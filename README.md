@@ -18,8 +18,8 @@ Shows a chart that animates on load, a description of the coin, general statisti
 
 <span>
   <p>
-    <img alt="image" width="500" src="https://github.com/user-attachments/assets/7555394a-692b-40bb-b099-5d754e398af3" /> <!-- 1438 × 1528 -->
-    <img alt="image" width="500" src="https://github.com/user-attachments/assets/b952e80b-71ac-4f71-8194-fc5fed8e9200" /> <!-- 1438 × 1528 -->
+    <img alt="image" width="250" src="https://github.com/user-attachments/assets/7555394a-692b-40bb-b099-5d754e398af3" /> <!-- 1438 × 1528 -->
+    <img alt="image" width="250" src="https://github.com/user-attachments/assets/b952e80b-71ac-4f71-8194-fc5fed8e9200" /> <!-- 1438 × 1528 -->
   </p>
 </span>
 

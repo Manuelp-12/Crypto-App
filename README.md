@@ -12,6 +12,13 @@ Displays global market data - market cap, 24h volume, and bitcoin dominance, as 
 
 <img width="1442" height="1538" alt="image" src="https://github.com/user-attachments/assets/9afa3f66-bc87-4508-a221-8d775a24fbb5" />
 
+# Portfolio View
+
+Users can view coins that they previously added to thier portfolio, as well as their amount holding and price. At the top of the screen, a new statistic "Portfolio Value" shows where the user can see their total amount holdings and the weighted percentage change of their coins within the last 24 hours. A plus also appears at the top left of the screen where the user can add more coins to their portfolio.
+
+<img width="1438" height="1534" alt="image" src="https://github.com/user-attachments/assets/689a3a84-aad2-4ace-b971-462da7de362d" />
+
+
 # Coin Details
 
 Shows a chart that animates on load, a description of the coin, general statistics about the coin such as current price and market cap. Also includes additional details such as the high and low within the past 24 hours as well as a link to the coin's website and Reddit.

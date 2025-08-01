@@ -19,8 +19,8 @@ Shows a chart that animates on load, a description of the coin, general statisti
 <span>
   <p>
     <img alt="image" width="400" src="https://github.com/user-attachments/assets/7555394a-692b-40bb-b099-5d754e398af3" /> <!-- 1438 × 1528 -->
+    &nbsp;&nbsp;&nbsp;&nbsp;
     <img width="400" alt="image" src="https://github.com/user-attachments/assets/297ef5d7-cde3-4099-b68c-f589ea7bde5b" /> <!-- 1436 × 1532 -->
-
   </p>
 </span>
 

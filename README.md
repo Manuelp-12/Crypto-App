@@ -11,3 +11,7 @@ Visit here: [https://crypto-portfolio-app.expo.app](https://crypto-portfolio-app
 Displays global market data - market cap, 24h volume, and bitcoin dominance, as well as the top 250 coins with general data - coin's current price and percentage change in the last 24 hours. Users can also search for coins and reload the data.
 
 <img width="1442" height="1538" alt="image" src="https://github.com/user-attachments/assets/9afa3f66-bc87-4508-a221-8d775a24fbb5" />
+
+# Coin Details
+
+Shows a chart that animates on load, a description of the coin, general statistics about the coin such as current price and market cap. Also includes additional details such as the high and low within the past 24 hours as well as a link to the coin's website and Reddit.

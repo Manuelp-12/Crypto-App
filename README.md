@@ -15,3 +15,9 @@ Displays global market data - market cap, 24h volume, and bitcoin dominance, as 
 # Coin Details
 
 Shows a chart that animates on load, a description of the coin, general statistics about the coin such as current price and market cap. Also includes additional details such as the high and low within the past 24 hours as well as a link to the coin's website and Reddit.
+
+<span>
+  <img width="1438" height="1528" alt="image" src="https://github.com/user-    attachments/assets/7555394a-692b-40bb-b099-5d754e398af3" />
+  
+  <img width="1440" height="1412" alt="image" src="https://github.com/user-attachments/assets/b952e80b-71ac-4f71-8194-fc5fed8e9200" />
+</span>

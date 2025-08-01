@@ -18,6 +18,10 @@ Users can view coins that they previously added to thier portfolio, as well as t
 
 <img width="1438" height="1532" alt="image" src="https://github.com/user-attachments/assets/0f48bf74-0bf8-44aa-af81-30c992ea0551" />
 
+Users can select which coins they want to add to their portfolio by scrolling through a list of coins or searching by the coin's name or symbol. Once they click a coin they are asked to input an amount holding, and the current value updates to show the price of that many holdings. Finally they can click a save button which saves to their portfolio.
+
+<img width="1438" height="1532" alt="image" src="https://github.com/user-attachments/assets/a0061421-c47d-4ba3-85af-baba516e2d52" />
+
 # Coin Details
 
 Shows a chart that animates on load, a description of the coin, general statistics about the coin such as current price and market cap. Also includes additional details such as the high and low within the past 24 hours as well as a link to the coin's website and Reddit.

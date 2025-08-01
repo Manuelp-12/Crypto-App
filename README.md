@@ -22,6 +22,9 @@ Users can select which coins they want to add to their portfolio by scrolling th
 
 <img width="1438" height="1532" alt="image" src="https://github.com/user-attachments/assets/a0061421-c47d-4ba3-85af-baba516e2d52" />
 
+<img width="1438" height="1534" alt="image" src="https://github.com/user-attachments/assets/7a58264f-0dee-4fc1-bdcc-fbd22dbd0717" />
+
+
 # Coin Details
 
 Shows a chart that animates on load, a description of the coin, general statistics about the coin such as current price and market cap. Also includes additional details such as the high and low within the past 24 hours as well as a link to the coin's website and Reddit.

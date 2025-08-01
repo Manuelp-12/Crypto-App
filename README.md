@@ -1,5 +1,5 @@
 # Crypto Portfolio App
 
-## 🌐 Live website: 
+## 🌐 Live website 
 
-visit: https://crypto-portfolio-app.expo.app
+Visit here: [https://crypto-portfolio-app.expo.app](https://crypto-portfolio-app.expo.app)

@@ -3,7 +3,7 @@ async function download(url) {
         const response = await fetch(url, {
             headers: {
                 accept: 'application/json',
-                'x-cg-demo-api-key': 'CG-4kDBVaCTP9fdn2Ykf6nDSVtr', //API key
+                'x-cg-demo-api-key': 'sampleAPIKey123', //API key
             },
         });
 
@@ -27,3 +27,4 @@ function handleCompletion(data, ModelClass) {
 }
 
 export { download, handleCompletion };
+

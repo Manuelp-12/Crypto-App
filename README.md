@@ -36,6 +36,5 @@ Users can view coins that they previously added to thier portfolio, as well as t
 Users can select which coins they want to add to their portfolio by scrolling through a list of coins or searching by the coin's name or symbol. Once they click a coin they are asked to input an amount holding, and the current value updates to show the price of that many holdings. Finally they can click a save button which saves to their portfolio.
 
 <br>
-<br>
 
 <img width="1438" height="1534" alt="image" src="https://github.com/user-attachments/assets/7a58264f-0dee-4fc1-bdcc-fbd22dbd0717" />

@@ -24,7 +24,7 @@ Shows a chart that animates on load, a description of the coin, general statisti
   </p>
 </span>
 
-Update
+UPDATE: Now incldues predicted price for the next 24 hours using Pandas, a python data analysis library. The predicted future price shows as a gray line at the end of the chart.
 
 <img width="2940" height="996" alt="image" src="https://github.com/user-attachments/assets/96517c28-3d6d-4b92-b7ec-d8ddc304ac4d" />
 

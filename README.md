@@ -24,6 +24,11 @@ Shows a chart that animates on load, a description of the coin, general statisti
   </p>
 </span>
 
+Update
+
+<img width="2940" height="996" alt="image" src="https://github.com/user-attachments/assets/96517c28-3d6d-4b92-b7ec-d8ddc304ac4d" />
+
+
 # Portfolio View
 
 Users can view coins that they previously added to thier portfolio, as well as their amount holding and price. At the top of the screen, a new statistic "Portfolio Value" shows where the user can see their total amount holdings and the weighted percentage change of their coins within the last 24 hours. A plus also appears at the top left of the screen where the user can add more coins to their portfolio.
